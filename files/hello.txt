@@ -1,1 +1,1 @@
-Hello i am Nirmal Singh
+This is a .txt file
